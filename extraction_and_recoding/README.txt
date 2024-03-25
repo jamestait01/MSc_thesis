@@ -16,6 +16,7 @@ Step 2: Selection of field IDs to extract
 What to do: 
 a) In parameters/selection.xlsx, manually fill in the columns "CodingName" (required), "FigureName" (optional) and "UnitInName" (optional). 
 Fields with non-missing CodingName are extracted. The "UnitInName" is included in brackets in "FigureName" if provided.
+The field ids I used are contained in 'covariate_ids.txt'.
 b) Choose the required instances (i.e. time points) among available ones in column "InstanceRequired". By default, all instances are extracted.
 
 c) Submit script: 2-extract_selected.sh
