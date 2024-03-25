@@ -1,0 +1,3 @@
+01-comorbid_cleaning cleans the output ukb_extracted output file that is created when field id 41270 is used to extract comorbidity information using scripts contained within extraction_and_recoding. It keeps comorbidities that were recorded before each person's recruitment.
+
+02-elixhauser_analysis uses R package 'comorbidity' to count the number of comorbidities for each person contained within the elixhauser index.
