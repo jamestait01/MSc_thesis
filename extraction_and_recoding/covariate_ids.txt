@@ -1,0 +1,13 @@
+Variable, field id
+Blood pressure: 93, 94, 4079, 4080
+Pregnancy status: 3140
+Smoking status: 20116
+BMI: 21001
+Age: 21022
+Ethnicity: 21000
+Sex: 31
+Alcohol intake: 1558
+Index of multiple deprivation: 26410, 26427, 26426
+Comorbidities: 41270
+Cause of death: 40001, 40002 
+Date of death: 40000
